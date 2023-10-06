@@ -4,5 +4,5 @@ import { svelte } from '@sveltejs/vite-plugin-svelte'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [svelte()],
-  base:'https://github.com/sebacred/portfolio-frontend'
+  base:'https://sebacred.github.com/portfolio-frontend'
 })
